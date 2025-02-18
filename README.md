@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Ben Dulavitch, and I am a new software developer.
+Hello! My name is Ben Dulavitch, and I am a full-stack software developer.
